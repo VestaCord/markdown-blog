@@ -1,6 +1,6 @@
 baseURL = 'https://hugoblogapp.com'
 languageCode = 'en-us'
-title = 'Lama dev blog'
+title = 'Vesta dev blog'
 
 paginate = 4
 
